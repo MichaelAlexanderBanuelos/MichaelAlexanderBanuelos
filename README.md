@@ -1,8 +1,8 @@
-- Hi, I’m @MichaelAlexanderBanuelos 👋 
+- Hi, I’m Michael Banuelos! 👋 
 - I’m interested in Full Stack Development 👀
-- I’m currently learning React and Node 🌱
+- I’m currently creating a crypto portfolio and mock trading platform 🥇 
 - I’m looking to collaborate on open source projects! 💞️ 
-- How to reach me email me at mbanuelos1995@gmail.com 📫
+- You can email me at mbanuelos1995@gmail.com 📫
 
 <!---
 MichaelAlexanderBanuelos/MichaelAlexanderBanuelos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
