@@ -1,4 +1,4 @@
-<h1 align="center">Hello World</h1>
+<h1 align="center">Michael Banuelos 👀</h1>
 <h3 align="center">Los Angeles based Software Engineer</h3>
 
 - 🔭 I’m currently working on [paper crypto](https://github.com/MichaelAlexanderBanuelos/paper-crypto)
