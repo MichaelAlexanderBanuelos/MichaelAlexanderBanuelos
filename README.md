@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hello World</h1>
+<h3 align="center">Los Angeles based Software Engineer</h3>
 
 - 🔭 I’m currently working on [paper crypto](https://github.com/MichaelAlexanderBanuelos/paper-crypto)
 
