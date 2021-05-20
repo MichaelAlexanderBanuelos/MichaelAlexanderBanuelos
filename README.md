@@ -1,7 +1,7 @@
 <h1 align="center">Michael Banuelos </h1>
 <h3 align="center">Los Angeles based Software Engineer</h3>
 
-- 🌱 I’m currently studying **algorithms**
+- 🌱 I’m currently learning **typescript**
 
 - 💬 Ask me about **coffee**
 
